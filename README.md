@@ -1,25 +1,26 @@
-# Graduation Project: Automatic Box Folding Machine
+# 📦 Automatic Box Folding Machine
 
 ---
 
-# Project Overview
-
----
-
-# Tech Stack
+🧩 Tech Stack
+- 
+- 
+- 
 - 
 ---
 
-# Mechanical Design
+🛠️ Mechanical Design
+- 
+- 
+- 
+---
+
+⚡ Electrical Design
 
 ---
 
-# Electrical Design
+⚙️ Control System & Automation
 
 ---
 
-# Control System & Automation
-
----
-
-# Key Achievements
+⭐ Key Achievements
