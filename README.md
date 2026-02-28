@@ -53,5 +53,7 @@
 - Robust Control: Successfully implemented error-handling routines and emergency stop safety sequences for industrial reliability.
 - System Integration: Built a fully functional and stable prototype from scratch, bridging mechanical hardware with intelligent control software.
 - Below is a video demonstrating the system operation:
+
+
 [![Video demo](<img width="1920" height="1080" alt="thumbnail" src="https://github.com/user-attachments/assets/53ad9d75-54e1-4375-b8da-186a581141a6" />
 )](https://www.youtube.com/watch?v=0O_5mCL5AjY)
