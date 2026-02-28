@@ -1,4 +1,6 @@
-<img width="1920" height="1080" alt="ĐỒ ÁN TỐT NGHIỆP - AUTOMATIC BOX FOLDING MACHINE 3-6 screenshot" src="https://github.com/user-attachments/assets/742f7154-4ec6-426b-bb56-f8b839845330" /># 📦Automatic Box Folding Machine
+<img width="1920" height="1080" alt="ĐỒ ÁN TỐT NGHIỆP - AUTOMATIC BOX FOLDING MACHINE 3-6 screenshot" src="https://github.com/user-attachments/assets/742f7154-4ec6-426b-bb56-f8b839845330" />
+
+# 📦Automatic Box Folding Machine
 
 ---
 
@@ -51,4 +53,5 @@
 - Robust Control: Successfully implemented error-handling routines and emergency stop safety sequences for industrial reliability.
 - System Integration: Built a fully functional and stable prototype from scratch, bridging mechanical hardware with intelligent control software.
 - Below is a video demonstrating the system operation:
-[![Video demo](<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/daadbc24-a6cb-4e3d-9c93-d61c0336118b" />)]([https://youtu.be/xxxxxxx](https://www.youtube.com/watch?v=0O_5mCL5AjY))
+[![Video demo](<img width="1920" height="1080" alt="ĐỒ ÁN TỐT NGHIỆP - AUTOMATIC BOX FOLDING MACHINE 3-6 screenshot" src="https://github.com/user-attachments/assets/a01ee913-f03c-4c27-be81-3f3a8dab1af5" />
+)]([https://youtu.be/xxxxxxx](https://www.youtube.com/watch?v=0O_5mCL5AjY))
