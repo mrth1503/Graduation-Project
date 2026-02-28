@@ -52,3 +52,5 @@
 - System Integration: Built a fully functional and stable prototype from scratch, bridging mechanical hardware with intelligent control software.
 - Below is a video demonstrating the system operation:
 
+https://www.youtube.com/watch?v=2ziENCmtCSc
+
