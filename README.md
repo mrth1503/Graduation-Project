@@ -52,6 +52,6 @@
 - Mechanical Precision: Achieved perfect synchronization between pneumatic actuators and specific mechanical folding steps.
 - Robust Control: Successfully implemented error-handling routines and emergency stop safety sequences for industrial reliability.
 - System Integration: Built a fully functional and stable prototype from scratch, bridging mechanical hardware with intelligent control software.
-- Below is a video demonstrating the system operation:
+  ⬇️Below is a video demonstrating the system operation⤵️:
 
   [🎥Video Demo🎥](https://www.youtube.com/watch?v=0O_5mCL5AjY)
